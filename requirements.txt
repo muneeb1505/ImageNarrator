@@ -1,4 +1,4 @@
 streamlit
 Pillow
-pyttsx3
 google-generativeai
+gTTS
